@@ -1,4 +1,4 @@
-student_id,age,gender,academic_level,study_hours,self_study_hours,online_classes_hours,social_media_hours,gaming_hours,sleep_hours,screen_time_hours,exercise_minutes,caffeine_intake_mg,part_time_job,upcoming_deadline,internet_quality,mental_health_score,focus_index,burnout_level,productivity_score,exam_score
+estudiante_id,edad,genero,nivel_academico,horas_estudio,horas de autoestudio_,horas_online_classes_,horas_redes_sociales,horas_de_sueño,minutos_de_ejercicio,consumo_de_cafeina,indice_de_concentracion,_nivel_agotamiento,calificacion_examen
 1,18,Other,High School,7.64,1.56,2.2,3.05,2.19,6.52,6.47,81,38,1,0,Good,10,43.05,31.77,73.65,50.16
 2,18,Other,High School,2.21,2.22,2.1,1.65,2.55,5.97,6.05,111,339,0,0,Good,3,15.92,37.0,13.7,1.0
 3,22,Male,High School,3.45,0.0,0.29,1.34,2.08,8.39,7.62,68,266,0,1,Good,8,27.39,34.37,45.15,18.3
