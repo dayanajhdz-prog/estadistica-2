@@ -1,4 +1,4 @@
-Hours_Studied,Attendance,Parental_Involvement,Access_to_Resources,Extracurricular_Activities,Sleep_Hours,Previous_Scores,Motivation_Level,Internet_Access,Tutoring_Sessions,Family_Income,Teacher_Quality,School_Type,Peer_Influence,Physical_Activity,Learning_Disabilities,Parental_Education_Level,Distance_from_Home,Gender,Exam_Score
+Horas_estudio,Asistencia,Participacion_parental,Acceso_a_recursos,Actividades_extrarriculares,Horas_sueño,Calificaciones_anteriores,Nivel_motivacion,Acceso_internet,Session_tutorias,Ingreso_familiar,Calidad_docente,Tipo_de_escuela,Influencia_compañeros,Actividad_fisica,Discapacidades_aprendizaje,Nivel_educacion_padres,Distancia_desde_hogar,Genero,Calificacion_examen
 23,84,Low,High,No,7,73,Low,Yes,0,Low,Medium,Public,Positive,3,No,High School,Near,Male,67
 19,64,Low,Medium,No,8,59,Low,Yes,2,Medium,Medium,Public,Negative,4,No,College,Moderate,Female,61
 24,98,Medium,Medium,Yes,7,91,Medium,Yes,2,Medium,Medium,Public,Neutral,4,No,Postgraduate,Near,Male,74
